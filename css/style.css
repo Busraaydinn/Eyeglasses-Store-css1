@@ -28,7 +28,7 @@ Navigation bar renklendirilmesi ve dizaynı
 }
 .navigation-bar a {
     float: left;
-    color: #FFECEF;
+    color:#FFECEF;
     text-align: center;
     padding: 16px 18px;
     text-decoration: none;
@@ -36,7 +36,7 @@ Navigation bar renklendirilmesi ve dizaynı
   }
   
   .navigation-bar a:hover {
-    background-color: #FFCACA;
+    background-color:#FFECEF;
     color: #372948;
   }
 
@@ -48,7 +48,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
+    width: 150px;
     background-color:palevioletred;
   }
   
